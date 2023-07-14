@@ -11,6 +11,6 @@ Patika-OOP
 
 4 - Her çalışan bir ofiste çalışır.
 
-### Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
+##### Not : Sınıflara ait nitelik ve davranışların belirtilmesine gerek yoktur.
 
 ![OOP-University UML](https://github.com/seniordoctor/Object-Oriented-Programming/assets/75563269/37093fbf-a5a7-4b96-8aca-6ac919f4cf30)
